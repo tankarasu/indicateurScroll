@@ -1,2 +1,0 @@
-# indicateurScroll
-Created with CodeSandbox
